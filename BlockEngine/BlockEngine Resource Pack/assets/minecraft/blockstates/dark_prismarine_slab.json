@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/dark_prismarine_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/dark_prismarine"},"type=top":{"model":"minecraft:block/dark_prismarine_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:dark_prismarine"}}}

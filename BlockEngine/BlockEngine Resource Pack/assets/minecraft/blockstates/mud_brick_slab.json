@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/mud_brick_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/mud_bricks"},"type=top":{"model":"minecraft:block/mud_brick_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:mud_brick"}}}

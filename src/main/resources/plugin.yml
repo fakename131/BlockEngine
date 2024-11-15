@@ -1,0 +1,4 @@
+name: BlockEngine
+version: '${project.version}'
+main: dev.fake.blockengine.BlockEngine
+api-version: '1.21'

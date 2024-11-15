@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/deepslate_brick_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/deepslate_bricks"},"type=top":{"model":"minecraft:block/deepslate_brick_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:deepslate_brick"}}}

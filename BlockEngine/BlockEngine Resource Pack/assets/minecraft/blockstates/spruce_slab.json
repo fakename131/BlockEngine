@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/spruce_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/spruce_planks"},"type=top":{"model":"minecraft:block/spruce_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:spruce"}}}

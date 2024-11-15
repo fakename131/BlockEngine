@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/petrified_oak_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/oak_planks"},"type=top":{"model":"minecraft:block/petrified_oak_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:petrified_oak"}}}

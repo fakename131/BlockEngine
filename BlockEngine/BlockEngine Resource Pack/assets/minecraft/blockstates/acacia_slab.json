@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/acacia_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/acacia_planks"},"type=top":{"model":"minecraft:block/acacia_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:acacia"}}}

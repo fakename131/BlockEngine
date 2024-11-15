@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/cut_red_sandstone_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/cut_red_sandstone"},"type=top":{"model":"minecraft:block/cut_red_sandstone_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:cut_red_sandstone"}}}

@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/dark_oak_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/dark_oak_planks"},"type=top":{"model":"minecraft:block/dark_oak_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:dark_oak"}}}

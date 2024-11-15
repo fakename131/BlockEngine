@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/warped_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/warped_planks"},"type=top":{"model":"minecraft:block/warped_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:warped"}}}

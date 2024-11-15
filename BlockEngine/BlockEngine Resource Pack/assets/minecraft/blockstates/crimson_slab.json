@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/crimson_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/crimson_planks"},"type=top":{"model":"minecraft:block/crimson_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:crimson"}}}

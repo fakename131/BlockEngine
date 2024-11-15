@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/mangrove_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/mangrove_planks"},"type=top":{"model":"minecraft:block/mangrove_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:mangrove"}}}

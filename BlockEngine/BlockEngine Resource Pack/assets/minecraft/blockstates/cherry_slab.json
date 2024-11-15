@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/cherry_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/cherry_planks"},"type=top":{"model":"minecraft:block/cherry_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:cherry"}}}

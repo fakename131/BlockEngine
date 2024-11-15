@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/bamboo_mosaic_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/bamboo_mosaic"},"type=top":{"model":"minecraft:block/bamboo_mosaic_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:bamboo_mosaic"}}}

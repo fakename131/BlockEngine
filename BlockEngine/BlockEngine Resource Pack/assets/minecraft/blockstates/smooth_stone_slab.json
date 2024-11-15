@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/smooth_stone_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/smooth_stone"},"type=top":{"model":"minecraft:block/smooth_stone_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:smooth_stone"}}}

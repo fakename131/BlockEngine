@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/polished_deepslate_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/polished_deepslate"},"type=top":{"model":"minecraft:block/polished_deepslate_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:polished_deepslate"}}}

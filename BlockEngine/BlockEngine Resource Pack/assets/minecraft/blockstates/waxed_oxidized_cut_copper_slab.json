@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/oxidized_cut_copper_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/oxidized_cut_copper"},"type=top":{"model":"minecraft:block/oxidized_cut_copper_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:waxed_oxidized_cut_copper"}}}

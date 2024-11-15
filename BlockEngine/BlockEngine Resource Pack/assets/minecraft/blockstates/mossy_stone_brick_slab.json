@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/mossy_stone_brick_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/mossy_stone_bricks"},"type=top":{"model":"minecraft:block/mossy_stone_brick_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:mossy_stone_brick"}}}

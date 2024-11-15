@@ -1,0 +1,1 @@
+{"variants":{"type=bottom":{"model":"minecraft:block/red_nether_brick_slab"},"type=double,waterlogged=false":{"model":"minecraft:block/red_nether_bricks"},"type=top":{"model":"minecraft:block/red_nether_brick_slab_top"},"type=double,waterlogged=true":{"model":"blockengine:red_nether_brick"}}}
